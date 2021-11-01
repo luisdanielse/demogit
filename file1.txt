@@ -1,1 +1,7 @@
 This is the content of the file 1
+
+
+
+
+This is a change that is not going to be presented in
+version 1 because was added in version 2
